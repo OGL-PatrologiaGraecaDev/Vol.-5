@@ -1,0 +1,14 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/5/njp.32101077772372/1056.png"; bbox 0 0 1873 3065; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 392 1610 1357 1633">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 392 1610 1357 1633">
+     <span class='ocr_line' id='line_1_1' title="bbox 392 1610 1357 1633; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 392 1610 450 1631; x_wconf 82' lang='lat' dir='ltr'><strong>DATE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 468 1610 553 1632; x_wconf 84' lang='lat' dir='ltr'><strong>ISSUED</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 685 1610 744 1632; x_wconf 76' lang='lat' dir='ltr'><strong>DATE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 762 1611 807 1632; x_wconf 86' lang='lat' dir='ltr'><strong>DUE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 940 1611 998 1632; x_wconf 84' lang='lat' dir='ltr'><strong>DATE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1016 1611 1102 1633; x_wconf 88' lang='lat' dir='ltr'><strong>ISSUED</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1234 1611 1293 1633; x_wconf 86' lang='lat' dir='ltr'><strong>DATE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1311 1611 1357 1633; x_wconf 84' lang='lat' dir='ltr'><strong>DUE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 362 1648 1393 3034">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 404 1655 1168 1771">
+     <span class='ocr_line' id='line_1_2' title="bbox 404 1655 1168 1771; baseline 0.003 -15"><span class='ocrx_word' id='word_1_9' title='bbox 404 1738 426 1756; x_wconf 74' lang='grc'>.</span> <span class='ocrx_word' id='word_1_10' title='bbox 442 1668 606 1767; x_wconf 69' lang='grc' dir='ltr'>ί</span> <span class='ocrx_word' id='word_1_11' title='bbox 623 1655 1168 1771; x_wconf 91' lang='grc'><strong>-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
